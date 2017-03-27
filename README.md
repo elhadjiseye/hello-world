@@ -1,2 +1,3 @@
 # hello-world
 to get start with GitHub
+I'm learning hot to use that fascinating programming tool ....
